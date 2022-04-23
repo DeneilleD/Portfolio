@@ -1,5 +1,5 @@
 # My Portfolio Project
-This project highlights my dev journey my work in order of my most recent work first. I wanted to display a very minimilistic project; with everything organized and easy to find.
+This project highlights my dev journey by showcasing my work in order of my most recent. I wanted to display a very minimilistic project; with everything organized and easy to find.
 
 **Link to project: https://ddavids.netlify.app/** 
 
