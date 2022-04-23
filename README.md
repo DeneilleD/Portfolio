@@ -1,9 +1,9 @@
-# My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+# My Portfolio Project
+This project highlights my dev journey my work in order of my most recent work first. I wanted to display a very minimilistic project; with everything organized and easy to find.
 
-**Link to project:** 
+**Link to project: https://ddavids.netlify.app/** 
 
-![alt tag]()
+![alt tag](snip.PNG)
 
 ## How It's Made:
 
