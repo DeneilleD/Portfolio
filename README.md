@@ -1,7 +1,7 @@
 # My Portfolio Project
 This project highlights my dev journey by showcasing my work in order of most recent. I wanted to display a very minimilistic project; with everything organized and easy to find.
 
-**Link to project: https://ddportflio.netlify.app/** 
+**Link to project: https://ddavids.netlify.app/* 
 
 ![alt tag](snip.PNG)
 
